@@ -4,7 +4,7 @@
 
 > **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
 
-* 原文：[prob140/textbook](https://nbviewer.jupyter.org/github/prob140/textbook/tree/gh-pages/notebooks/)
+* 原文：[gensim 文档](https://radimrehurek.com/gensim/index.html)
 * **[ApacheCN - 学习机器学习群【629470233】](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)**
 * **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache 中文网）](http://www.apachecn.org/)**
 
