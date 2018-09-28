@@ -32,9 +32,9 @@ Gensim使用持续集成，在每个pull请求上自动运行完整的测试套�
 
 | CI service | Task | Build badge |
 | :-- | :-- | :-- |
-| Travis | 在Linux上运行测试并检查[代码样式](https://www.python.org/dev/peps/pep-0008/?) | ![Travis](imgs/Introduction/gensim.svg) |
-| AppVeyor | 在Windows上运行测试 | ![AppVeyor](imgs/Introduction/develop_1.svg) |
-| CircleCI | 构建文档 | ![CircleCI](imgs/Introduction/develop.svg) |
+| Travis | 在Linux上运行测试并检查[代码样式](https://www.python.org/dev/peps/pep-0008/?) | ![Travis](/imgs/Introduction/gensim.svg) |
+| AppVeyor | 在Windows上运行测试 | ![AppVeyor](/imgs/Introduction/develop_1.svg) |
+| CircleCI | 构建文档 | ![CircleCI](/imgs/Introduction/develop.svg) |
 
 ## [问题？](https://radimrehurek.com/gensim/install.html#problems "永久链接到这个标题")
 
