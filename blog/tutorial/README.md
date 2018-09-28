@@ -1,25 +1,25 @@
 # 教程
 
-这些教程被组织为一系列示例，突出了gensim的各种功能。假设读者熟悉[Python语言](https://www.python.org/)，[安装了gensim](https://radimrehurek.com/gensim/install.html) 并阅读了[介绍](https://radimrehurek.com/gensim/intro.html)。
+这些教程被组织为一系列示例，突出了gensim的各种功能。假设读者熟悉[Python语言](https://www.python.org/)，[安装了gensim](/blog/Install/README.md) 并阅读了[介绍](/blog/Introduction/README.md)。
 
 这些例子分为以下部分：
 
-* [语料库和向量空间](https://radimrehurek.com/gensim/tut1.html)
+* [语料库和向量空间](/blog/tutorial/1.md)
     * [从字符串到向量](https://radimrehurek.com/gensim/tut1.html#from-strings-to-vectors)
     * [语料库流 - 一次一个文档](https://radimrehurek.com/gensim/tut1.html#corpus-streaming-one-document-at-a-time)
     * [语料库格式](https://radimrehurek.com/gensim/tut1.html#corpus-formats)
     * [与NumPy和SciPy的兼容性](https://radimrehurek.com/gensim/tut1.html#compatibility-with-numpy-and-scipy)
-* [主题和转换](https://radimrehurek.com/gensim/tut2.html)
+* [主题和转换](/blog/tutorial/2.md)
     * [转换界面](https://radimrehurek.com/gensim/tut2.html#transformation-interface)
     * [可用的转换](https://radimrehurek.com/gensim/tut2.html#available-transformations)
-* [相似性查询](https://radimrehurek.com/gensim/tut3.html)
+* [相似性查询](/blog/tutorial/3.md)
     * [相似界面](https://radimrehurek.com/gensim/tut3.html#similarity-interface)
     * [下一个在哪里](https://radimrehurek.com/gensim/tut3.html#where-next)
-* [英语维基百科上的实验](https://radimrehurek.com/gensim/wiki.html)
+* [英语维基百科上的实验](/blog/tutorial/4.md)
     * [准备语料库](https://radimrehurek.com/gensim/wiki.html#preparing-the-corpus)
     * [潜在语义分析](https://radimrehurek.com/gensim/wiki.html#latent-semantic-analysis)
     * [潜在的Dirichlet分配](https://radimrehurek.com/gensim/wiki.html#latent-dirichlet-allocation)
-* [分布式计算](https://radimrehurek.com/gensim/distributed.html)
+* [分布式计算](/blog/tutorial/5.md)
     * [为何分布式计算？](https://radimrehurek.com/gensim/distributed.html#why-distributed-computing)
     * [先决条件](https://radimrehurek.com/gensim/distributed.html#prerequisites)
     * [核心概念](https://radimrehurek.com/gensim/distributed.html#core-concepts)
