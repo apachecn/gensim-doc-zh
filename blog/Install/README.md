@@ -30,11 +30,11 @@ Gensim在Linux，Windows和Mac OS X上运行，并且应该在支持Python 2.7+�
 
 Gensim使用持续集成，在每个pull请求上自动运行完整的测试套件
 
-| CI服务 | 任务 | 建立徽章 |
+| CI service | Task | Build badge |
 | :-- | :-- | :-- |
-| 特拉维斯 | 在Linux上运行测试并检查[代码样式](https://www.python.org/dev/peps/pep-0008/?) | [![特拉维斯](media/15381134086461/gensim.svg)](https://travis-ci.org/RaRe-Technologies/gensim) |
-| AppVeyor | 在Windows上运行测试 | ![AppVeyor](media/15381134086461/develop_1.svg) |
-| CircleCI | 构建文档 | ![CircleCI](media/15381134086461/develop.svg) |
+| Travis | 在Linux上运行测试并检查[代码样式](https://www.python.org/dev/peps/pep-0008/?) | ![特拉维斯](imgs/Introduction/gensim.svg) |
+| AppVeyor | 在Windows上运行测试 | ![AppVeyor](imgs/Introduction/develop_1.svg) |
+| CircleCI | 构建文档 | ![CircleCI](imgs/Introduction/develop.svg) |
 
 ## [问题？](https://radimrehurek.com/gensim/install.html#problems "永久链接到这个标题")
 
