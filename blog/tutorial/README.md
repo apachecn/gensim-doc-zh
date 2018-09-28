@@ -1,14 +1,4 @@
-# gensim 中文文档
-
-* [ApacheCN 组织资源](https://github.com/apachecn/home): https://github.com/apachecn/home
-
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
-
-* 原文：[prob140/textbook](https://nbviewer.jupyter.org/github/prob140/textbook/tree/gh-pages/notebooks/)
-* **[ApacheCN - 学习机器学习群【629470233】](http://shang.qq.com/wpa/qunwpa?idkey=30e5f1123a79867570f665aa3a483ca404b1c3f77737bc01ec520ed5f078ddef)**
-* **[Machine Learning in Action（机器学习实战）](https://github.com/apachecn/MachineLearning)| [ApacheCN（apache 中文网）](http://www.apachecn.org/)**
-
-## 目录
+# 教程
 
 这些教程被组织为一系列示例，突出了gensim的各种功能。假设读者熟悉[Python语言](https://www.python.org/)，[安装了gensim](https://radimrehurek.com/gensim/install.html) 并阅读了[介绍](https://radimrehurek.com/gensim/intro.html)。
 
@@ -109,29 +99,4 @@ Gensim使用Python的标准 `logging` 模块来记录各种优先级的各种东
 
 ---
 
-| [[1]](https://radimrehurek.com/gensim/tutorial.html#id1) | 这与 [Deerwester等人](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf) 使用的语料库相同[。](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf)[（1990）：通过潜在语义分析进行索引](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf)，表2。 
-
-## 联系方式
-
-> 负责人
-
-* [@片刻](https://github.com/jiangzhonglian): 529815144
-
-> 加入方式
-
-* 企鹅: 529815144(片刻) 1042658081(那伊抹微笑) 190442212(瑶妹)
-* [ApacheCN(apache中文网) 维护更新](http://www.apachecn.org) : [关于我们](http://cwiki.apachecn.org/pages/viewpage.action?pageId=2887240) && [加入我们](http://cwiki.apachecn.org/pages/viewpage.action?pageId=2887239)
-
-## 免责声明 - 【只供学习参考】
-
-* ApacheCN 纯粹出于学习目的与个人兴趣翻译本书
-* ApacheCN 保留对此版本译文的署名权及其它相关权利
-
----
-
-资料来源:
-* https://radimrehurek.com/gensim/tutorial.html
-
-## 赞助我们
-
-![](http://www.apachecn.org/img/about/donate.jpg)
+| [[1]](https://radimrehurek.com/gensim/tutorial.html#id1) | 这与 [Deerwester等人](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf) 使用的语料库相同[。](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf)[（1990）：通过潜在语义分析进行索引](http://www.cs.bham.ac.uk/~pxt/IDA/lsa_ind.pdf)，表2。
