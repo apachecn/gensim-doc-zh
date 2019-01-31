@@ -32,7 +32,7 @@
 
 Gensim使用Python的标准 `logging` 模块来记录各种优先级的各种东西; 要激活日志记录（这是可选的），请运行
 
-```
+```py
 >>> import logging
 >>> logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 ```
@@ -41,7 +41,7 @@ Gensim使用Python的标准 `logging` 模块来记录各种优先级的各种东
 
 首先，让我们导入gensim并创建一个包含九个文档和十二个特征的小型语料库[[1]](https://radimrehurek.com/gensim/tutorial.html#id2)：
 
-```
+```py
 >>> from gensim import corpora, models, similarities
 >>>
 >>> corpus = [[(0, 1.0), (1, 1.0), (2, 1.0)],
@@ -64,13 +64,13 @@ Gensim使用Python的标准 `logging` 模块来记录各种优先级的各种东
 
 接下来，让我们初始化一个*转换*：
 
-```
+```py
 >>> tfidf = models.TfidfModel(corpus)
 ```
 
 转换用于将文档从一个向量表示转换为另一个向量表示：
 
-```
+```py
 >>> vec = [(0, 1), (4, 1)]
 >>> print(tfidf[vec])
 [(0, 0.8075244), (4, 0.5898342)]
@@ -82,13 +82,13 @@ Gensim使用Python的标准 `logging` 模块来记录各种优先级的各种东
 
 要通过TfIdf转换整个语料库并对其进行索引，以准备相似性查询：
 
-```
+```py
 >>> index = similarities.SparseMatrixSimilarity(tfidf[corpus], num_features=12)
 ```
 
 并查询我们的查询向量`<span class="pre">vec</span>`与语料库中每个文档的相似性：
 
-```
+```py
 >>> sims = index[tfidf[vec]]
 >>> print(list(enumerate(sims)))
 [(0, 0.4662244), (1, 0.19139354), (2, 0.24600551), (3, 0.82094586), (4, 0.0), (5, 0.0), (6, 0.0), (7, 0.0), (8, 0.0)]
