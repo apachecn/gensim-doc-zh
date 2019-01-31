@@ -11,7 +11,7 @@ Gensim旨在处理原始的非结构化数字文本（**`纯文本`**）。
 > 注意
 如果前面的段落让您感到困惑，您可以在Wikipedia上阅读有关[向量空间模型](https://en.wikipedia.org/wiki/Vector_space_model)和[无监督文档分析的](https://en.wikipedia.org/wiki/Latent_semantic_indexing)更多信息。
 
-## [功能](https://radimrehurek.com/gensim/intro.html#features "永久链接到这个标题")
+## 功能
 
 * **内存独立性** - 任何时候都不需要整个训练语料库完全驻留在RAM中（可以处理大型的Web级语料库）。
 * **内存共享** - 经过训练的模型可以持久保存到磁盘并通过[mmap](https://en.wikipedia.org/wiki/Mmap)加载回来。多个进程可以共享相同的数据，从而减少RAM占用空间。
@@ -30,7 +30,7 @@ Gensim背后的**主要设计目标**是：
 
 到达 info@scaletext.com 如果你需要专业支持的工业级NLP工具。
 
-## [可用性](https://radimrehurek.com/gensim/intro.html#availability "永久链接到这个标题")
+## 可用性
 
 Gensim根据OSI批准的[GNU LGPLv2.1许可证授权](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)，可以从其[Github存储库](https://github.com/piskvorky/gensim/) 或[Python Package Index下载](https://pypi.python.org/pypi/gensim)。
 
@@ -38,7 +38,7 @@ Gensim根据OSI批准的[GNU LGPLv2.1许可证授权](https://www.gnu.org/licens
 
 有关Gensim部署的更多信息，请参阅[安装](https://radimrehurek.com/gensim/install.html)页面。
 
-## [核心概念](https://radimrehurek.com/gensim/intro.html#core-concepts "永久链接到这个标题")
+## 核心概念
 
 > 文集
 

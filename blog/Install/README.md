@@ -1,6 +1,6 @@
 # 安装
 
-## [快速安装](https://radimrehurek.com/gensim/install.html#quick-install "永久链接到这个标题")
+## 快速安装
 
 在您的终端中运行（推荐）：
 
@@ -16,7 +16,7 @@
 
 ---
 
-## [代码依赖](https://radimrehurek.com/gensim/install.html#code-dependencies "永久链接到这个标题")
+## 代码依赖
 
 Gensim在Linux，Windows和Mac OS X上运行，并且应该在支持Python 2.7+和NumPy的任何其他平台上运行。Gensim取决于以下软件：
 
@@ -26,7 +26,7 @@ Gensim在Linux，Windows和Mac OS X上运行，并且应该在支持Python 2.7+�
 * [Six](https://pypi.org/project/six/) >= 1.5.0
 * [smart_open](https://pypi.org/project/smart_open/) >= 1.2.1
 
-## 测试Gensim [](https://radimrehurek.com/gensim/install.html#testing-gensim "永久链接到这个标题")
+## 测试Gensim
 
 Gensim使用持续集成，在每个pull请求上自动运行完整的测试套件
 
@@ -36,6 +36,6 @@ Gensim使用持续集成，在每个pull请求上自动运行完整的测试套�
 | AppVeyor | 在Windows上运行测试 | ![AppVeyor](/imgs/Introduction/develop_1.svg) |
 | CircleCI | 构建文档 | ![CircleCI](/imgs/Introduction/develop.svg) |
 
-## [问题？](https://radimrehurek.com/gensim/install.html#problems "永久链接到这个标题")
+## 问题
 
 使用[Gensim讨论组](https://groups.google.com/group/gensim/)进行问题和故障排除。有关商业支持，请参阅[支持页面](https://radimrehurek.com/gensim/support.html)。
