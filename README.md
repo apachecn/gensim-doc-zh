@@ -29,6 +29,16 @@
 * ApacheCN 纯粹出于学习目的与个人兴趣翻译本书
 * ApacheCN 保留对此版本译文的署名权及其它相关权利
 
+## 下载
+
+### NPM
+
+```
+npm install -g gensim-doc-zh
+gensim-doc-zh <port>
+# 访问 http://localhost:{port} 查看文档
+```
+
 ## 赞助我们
 
 ![](http://www.apachecn.org/img/about/donate.jpg)
