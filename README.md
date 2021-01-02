@@ -6,7 +6,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远**
+> 代码是为人类阅读而写，只是顺便能被机器执行罢了。——哈罗德·埃布尔森
 
 * [在线阅读](https://gensim.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/gensim-doc-zh/)
